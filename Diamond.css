@@ -1,0 +1,21 @@
+body {
+    background-image:url("https://images.pexels.com/photos/1170576/pexels-photo-1170576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    color: white;  
+
+  }
+
+
+  img {
+    border-radius: 50%;
+  display: flex;
+
+  }
+img {  
+  height: 200px;  
+  width: 250px;  
+  border: 7px ridge blue;  
+  }  
+ 
+
+
+
